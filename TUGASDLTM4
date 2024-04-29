@@ -1,8 +1,18 @@
 {
   "cells": [
     {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/skyrch/TugasDLTM4/blob/main/TUGASDLTM4\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "id": "0215da00",
       "metadata": {
         "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
@@ -106,7 +116,7 @@
         "outputId": "f08427bb-edda-45d6-a616-cdddcffef463"
       },
       "id": "TNeEyA4UOgD5",
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -130,7 +140,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 3,
+      "execution_count": null,
       "id": "dd654d50",
       "metadata": {
         "execution": {
@@ -278,7 +288,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 4,
+      "execution_count": null,
       "id": "dc231c88",
       "metadata": {
         "execution": {
@@ -347,7 +357,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 5,
+      "execution_count": null,
       "id": "e4787b09",
       "metadata": {
         "execution": {
@@ -408,7 +418,7 @@
         "outputId": "3833e19b-7a1e-432a-f837-dd0bbac66e5d"
       },
       "id": "J5fHVlPdQQg7",
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -472,7 +482,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 8,
+      "execution_count": null,
       "id": "a46dd371",
       "metadata": {
         "execution": {
@@ -1076,7 +1086,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 10,
+      "execution_count": null,
       "id": "085ff18e",
       "metadata": {
         "execution": {
@@ -1144,7 +1154,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 11,
+      "execution_count": null,
       "id": "d0d3c345",
       "metadata": {
         "execution": {
@@ -1645,7 +1655,8 @@
     },
     "colab": {
       "provenance": [],
-      "gpuType": "T4"
+      "gpuType": "T4",
+      "include_colab_link": true
     },
     "accelerator": "GPU"
   },
